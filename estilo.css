@@ -1,0 +1,77 @@
+h1 {
+    color: orange;
+    font-family: 'Silkscreen', sans-serif;
+    background-color: #F0FF00 ;
+}
+
+h2 {
+    color: white;
+}
+
+
+h3{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+h4{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+.textE{
+    color: white;
+}
+
+.textS{
+    color: white;
+}
+
+
+
+body {
+    background-color: #288A09;
+    text-align: center;
+}
+
+
+
+form {
+    margin-bottom: 40px;
+}
+
+#commentText {
+    width: 100%;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#comentariosContainer div {
+    background-color: #f0f0f0;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.centro {
+    margin: auto;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a {
+    display: block;
+    margin: auto;
+}
+
